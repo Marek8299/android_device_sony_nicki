@@ -14,5 +14,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo lineage_nicki-eng
-add_lunch_combo lineage_nicki-userdebug
+add_lunch_combo aosp_nicki-eng
+add_lunch_combo aosp_nicki-userdebug
