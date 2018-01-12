@@ -21,9 +21,6 @@ PRODUCT_AAPT_PREF_CONFIG := hdpi
 # Device specific overlays
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
-# QPerformance
-PRODUCT_BOOT_JARS += QPerformance
-
 # Product common configurations
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
